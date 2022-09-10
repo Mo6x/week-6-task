@@ -1,0 +1,17 @@
+{
+    "AuthorName": "string",
+  "email": "klok@klj.lkk",
+  "password": "12345",
+  "confirm_password":"12345",
+  "PhoneNumber": "string"
+}
+
+
+{
+  "Title": "string",
+  "Description": "string",
+  "pageCount": "number",
+  "Genre": "string",
+  "bookId": "number",
+  "Publisher": "string"
+}
